@@ -16,7 +16,7 @@ body
 #loveHeart
 {
   float:left;
-  width:670px;
+  width:60%;
   height:625px;
   
 }
@@ -75,7 +75,7 @@ height:100%;
 #code
 {
   float:left;
-  width:440px;
+  width:40%;
   height:400px;
   color:#333;
   font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";
